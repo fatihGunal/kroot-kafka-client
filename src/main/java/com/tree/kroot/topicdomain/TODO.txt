@@ -1,0 +1,17 @@
+This document contains a list of elements that are relevant to its domain.
+
+Topics domain: -> all items are based on conduktor-platform (check it when items are not clear anymore :) )
+    - Create topic
+    - Simple produce to topic
+    - Simple consume to topic
+    - Get topic, and he's partitions
+        - Get Offset per topic -> partition -> offset
+            - Might be in combination with parent point (3)
+
+
+
+    Nice to have:
+        - Create partitions (separately ?)
+        - Last updated timestamp
+        - When you have a lot of topics, fetch them with pagination
+        - Get and add configuration
